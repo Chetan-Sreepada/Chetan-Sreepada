@@ -1,53 +1,85 @@
-# 👋 Hi, I'm Chetan Sreepada
+![Waving Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true)
 
-Welcome to my GitHub profile! I'm a passionate AI/ML developer focused on building intelligent systems using Machine Learning, Deep Learning, and RAG pipelines. I'm always learning new technologies, building useful tools, and working on exciting AI projects.
+### Hi, I'm Chetan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-### 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+%F0%9F%A4%96;Building+RAG+Pipelines+%F0%9F%94%97;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Open%20to%20opportunities%20%F0%9F%9A%80&font=Fira+Code&center=true&width=480&height=45)](https://github.com/DenverCoder1/readme-typing-svg)
 
-- 👨💻 Currently focused on Building AI systems using ML, Deep learning, RAG pipelines, and automation workflows with n8n
-- 🔭 Working on AI/ML, RAG-based apps, and automation projects
-- 🤝 Looking for help with System design for AI apps, RAG optimization, and deployment
-- 🌱 Learning Deep learning, DSA, RAG systems, and automation tools like n8n
-- 💬 Ask me about Python, Java, ML, CNNs, NLP, RAG, and AI automation
-- ⚡ Fun fact: I build AI systems that solve real tasks, not just models that stay in notebooks
-- 📫 Reach me at [Your email here]
+![Profile Views](https://komarev.com/ghpvc/?username=Chetan-Sreepada&color=blue&style=flat)
 
-### 🚀 Technical Skills
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### ⚙️ GitHub Analytics
-
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Sreepada&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Sreepada&theme=radical)
-
-### 🔥 Pinned Projects
-
-- [Brain Tumor Detection](https://github.com/Chetan-Sreepada/brain-tumor-detection) - Deep learning for medical imaging
-- [RAG Production App](https://github.com/Chetan-Sreepada/RAGProductionApp) - RAG pipeline implementation
-- [Spam Mail Detection](https://github.com/Chetan-Sreepada/spam-mail-detection) - NLP classification project
-- [House Price Prediction](https://github.com/Chetan-Sreepada/house-price-prediction) - ML regression model
-- [Credit Card Fraud Detection](https://github.com/Chetan-Sreepada/credit-card-fraud-detection) - Anomaly detection
-- [Customer Segmentation](https://github.com/Chetan-Sreepada/customer-segmentation) - Clustering analysis
-
-## Connect With Me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+Welcome to my GitHub profile! I'm a passionate AI/ML developer focused on building intelligent systems using **Machine Learning**, **Deep Learning**, and **RAG pipelines**. I'm always learning new technologies, building useful tools, and working on exciting AI projects.
 
 ---
 
-> "If I had to sum up my dev philosophy in one line: Make it work, make it right, make it fast." – Kent Beck
+### 🚀 About Me
+
+- 🤖 Currently building **AI systems** with ML, Deep Learning, RAG pipelines & n8n automation workflows.
+- 🔭 Working on **LLM-powered apps**, computer vision, and production-ready RAG pipelines.
+- 🌱 Deep-diving into **Deep Learning**, **DSA**, **vector databases**, and agent frameworks.
+- 💬 Ask me about **Python, CNNs, NLP, RAG, LangChain, and AI automation**.
+- ⚡ Fun fact: I build AI systems that solve real tasks — not models that just live in notebooks.
+- 📫 Reach me at chetansreepada@gmail.com.
+
+---
+
+### 🚀 Technical Skills
+
+**Languages**
+
+[![Python](https://img.shields.io/badge/-Python-051222?style=flat&logo=python)](https://python.org)
+[![Java](https://img.shields.io/badge/-Java-051222?style=flat&logo=openjdk)](https://java.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-051222?style=flat&logo=javascript)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-051222?style=flat&logo=typescript)](https://typescriptlang.org)
+[![Dart](https://img.shields.io/badge/-Dart-051222?style=flat&logo=dart)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/-Flutter-051222?style=flat&logo=flutter)](https://flutter.dev)
+[![C](https://img.shields.io/badge/-C-051222?style=flat&logo=c)](https://cprogramming.com)
+[![HTML5](https://img.shields.io/badge/-HTML5-051222?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-051222?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**AI / ML**
+
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-051222?style=flat&logo=tensorflow)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-051222?style=flat&logo=pytorch)](https://pytorch.org)
+[![Keras](https://img.shields.io/badge/-Keras-051222?style=flat&logo=keras)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-051222?style=flat&logo=scikit-learn)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-051222?style=flat&logo=pandas)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/-NumPy-051222?style=flat&logo=numpy)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-051222?style=flat&logo=python)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-051222?style=flat&logo=python)](https://seaborn.pydata.org)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-051222?style=flat&logo=jupyter)](https://jupyter.org)
+[![LangChain](https://img.shields.io/badge/-LangChain-051222?style=flat&logo=langchain)](https://langchain.com)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-051222?style=flat&logo=opencv)](https://opencv.org)
+
+**Tools & Platforms**
+
+[![Git](https://img.shields.io/badge/-Git-051222?style=flat&logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-051222?style=flat&logo=github)](https://github.com)
+[![Docker](https://img.shields.io/badge/-Docker-051222?style=flat&logo=docker)](https://docker.com)
+[![Vite](https://img.shields.io/badge/-Vite-051222?style=flat&logo=vite)](https://vitejs.dev)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-051222?style=flat&logo=android-studio)](https://developer.android.com/studio)
+[![n8n](https://img.shields.io/badge/-n8n-051222?style=flat&logo=n8n)](https://n8n.io)
+[![REST API](https://img.shields.io/badge/-REST%20API-051222?style=flat)](https://restfulapi.net)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-051222?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-051222?style=flat&logo=visual-studio-code)](https://code.visualstudio.com)
+[![Notion](https://img.shields.io/badge/-Notion-051222?style=flat&logo=notion)](https://notion.so)
+[![Supabase](https://img.shields.io/badge/-Supabase-051222?style=flat&logo=supabase)](https://supabase.com)
+[![Firebase](https://img.shields.io/badge/-Firebase-051222?style=flat&logo=firebase)](https://firebase.google.com)
+[![React](https://img.shields.io/badge/-React-051222?style=flat&logo=react)](https://reactjs.org)
+
+---
+
+### ⚙️ GitHub Analytics
+
+[![Chetan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Chetan-Sreepada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chetan-Sreepada&layout=compact&langs_count=8&theme=algolia)](https://github.com/Chetan-Sreepada)
+
+
+---
+
+## Connect With Me 🤝
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/chetan-sharma-sreepada-38a774290)
+[![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png)](https://www.instagram.com/whytffchetan)
+[![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/binbradpitt)
+---
+
+
+![Waving Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer)
